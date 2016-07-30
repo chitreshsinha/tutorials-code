@@ -1,3 +1,4 @@
+#ref: http://twistedmatrix.com/documents/current/core/howto/defer.html
 from twisted.internet import reactor, defer
 from datetime import datetime 
 
